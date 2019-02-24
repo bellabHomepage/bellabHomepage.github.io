@@ -1,4 +1,4 @@
-- name: Eli Zunder
+- name: Dae Yu Kim
   image: /static/img/members/DYKim.jpg
   position: Professor
   email: dyukim@inha.ac.kr
@@ -7,12 +7,11 @@
   description: "Will update..."
 
 
-- name: Kristen Fread
-  image: /static/img/members/fread.jpg
+- name: Hyeon Woo Jeong
+  image: /static/img/members/HYBono.jpeg
   position: Graduate Student
   email: kif5qw (at) virginia.edu
-  description: "Kristen is from Accomac, Virginia, a small town on the Eastern Shore of Virginia. She completed her undergraduate education at Virginia Tech and received a BS in Biochemistry with minors in Chemistry and Spanish. Now, she is a part of the Biomedical Engineering program at UVA pursuing a Ph.D. in the Zunder Lab. Her research focuses on studying stem cell differentiation and cell fate decisions."
-
+  description: "ha... homepage... I want to go home"
 
 - name: Corey Williams
   image: /static/img/members/williams.jpg
