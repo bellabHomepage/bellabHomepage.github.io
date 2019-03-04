@@ -1,8 +1,9 @@
-# zunderlab.github.io
+# mel-lab.github.io
 ====================
 
 This website was built using the Fraser Lab [website](http://fraserlab.com/) as a template.  James Fraser's website is open-source and available on [Github](https://github.com/fraser-lab/fraser-lab.github.io)
 
+and also refer to https://github.com/zunderlab/zunderlab.github.io.
 
 Technologies this website uses:  
 
