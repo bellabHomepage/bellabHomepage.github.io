@@ -3,18 +3,58 @@
   position: Professor
   email: dyukim@inha.ac.kr
   scholar: "wHUbRh4AAAAJ&hl"
-  twitter: "zunderlab"
   description: "Will update..."
 
+- name: Dong Jin Lee
+  image: /static/img/members/unknownMan.jpg
+  position: ...
+  email: ...
+  description: "..."
+
+- name: Myeong Hee Kim
+  image: /static/img/members/unknownGirl.png
+  position: ...
+  email: ...
+  description: "..."
+
+- name: Hang Chan Jo
+  image: /static/img/members/unknownMan.jpg
+  position: MS - Ph.D
+  email: ...
+  description: "..."
+
+- name: Sung Hun Jung
+  image: /static/img/members/unknownMan.jpg
+  position: MS - Ph.D
+  email: ...
+  description: "..."
+
+- name: Su Guen Oh Saurus
+  image: /static/img/members/SGSG.jpeg
+  position: Graduate Student
+  email: ...
+  description: "..."
+
+- name: Jun Hyuk Lee
+  image: /static/img/members/JH2.jpeg
+  position: Graduate Student
+  email: ...
+  description: "..."
 
 - name: Hyeon Woo Jeong
   image: /static/img/members/HYBono.jpeg
   position: Graduate Student
-  email: kif5qw (at) virginia.edu
-  description: "ha... homepage... I want to go home"
+  email: qhsh9713@gmail.com
+  description: "..."
 
-- name: Corey Williams
-  image: /static/img/members/williams.jpg
-  position: Graduate Student
-  email: cmw6pa (at) virginia.edu
-  description: "Corey, originally from Allentown, Pennsylvania, is a Biomedical Engineering PhD student at UVA. He attended the University of Pittsburgh, earning a BS in Bioengineering and a minor in Chemistry. His research focuses on in vitro cardiomyocyte differentiation and its relation to embryonic heart development."
+- name: Yeon Ju Seo
+  image: /static/img/members/YJ.jpg
+  position: Undergraduate Student
+  email: ...
+  description: "..."
+
+- name: Kyo Sik Min
+  image: /static/img/members/MS.jpeg
+  position: Undergraduate Student
+  email: ...
+  description: "..."
