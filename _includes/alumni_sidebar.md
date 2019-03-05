@@ -1,5 +1,5 @@
 
-## Zunder Lab Alumni
+## Mel Lab Alumni
 
 
 {% for alum in site.data.alumni %}
@@ -10,3 +10,4 @@
 Currently: {{alum.current}} </p>
 </div> {% endfor %}
 ---
+

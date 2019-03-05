@@ -3,11 +3,12 @@ title: Contact
 ---
 
 
-### Contact the Zunder Lab
+### Contact the Mel Lab
 
-Eli Zunder, Ph.D.
-Assistant Professor
-Department of Biomedical Engineering
-University of Virginia
+Dae Yu Kim
+Professor
+Department of Electrical Engineering 
+University of Inha
 
-email: eli.zunder (#!) virginia.edu
+email: dyukim@inha.ac.kr 
+
