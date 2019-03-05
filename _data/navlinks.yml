@@ -22,6 +22,10 @@
   link: "/contact"
   group: contact
 
+- name: projects
+  link: "/projects"
+  group: projects
+
 # - name: links
 #   link: "/links"
 #   group: links
