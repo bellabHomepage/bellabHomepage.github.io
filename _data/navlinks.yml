@@ -6,9 +6,14 @@
   link: "/research"
   group: research
 
+- name: projects
+  link: "/projects"
+  group: projects
+
 - name: publications
   link: "/publications"
   group: publications
+
 
 - name: members
   link: "/members"
@@ -22,9 +27,6 @@
   link: "/contact"
   group: contact
 
-- name: projects
-  link: "/projects"
-  group: projects
 
 # - name: links
 #   link: "/links"
