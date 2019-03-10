@@ -19,9 +19,9 @@
   link: "/members"
   group: members
 
-- name: news
-  link: "/news"
-  group: news
+- name: gallery
+  link: "/gallery"
+  group: gallery
 
 - name: contact
   link: "/contact"
