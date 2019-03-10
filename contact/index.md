@@ -6,23 +6,6 @@ group: contact
 
 # Contact the Mel-Lab
 
-
-<div class="row">
-
-<div class="col-md-4">
-  <h4>Dae Yu Kim</h4>
-
-  Professor  <br>
-  Department of Electrical Engineering  <br>
- ...  <br>
-  ... <br>
-  <br>
-  email: dyukim@inha.ac.kr <br>
-
-</div>
-
-</div>
-
 * * *
 
 # Lab Address
@@ -30,9 +13,9 @@ group: contact
 <div class="row">
 
 <div class="col-md-4">
-University of Inha<br>Hi-Tech Center 301 / 333<br>INHA UNIVERSITY, 100 Inha-ro, Michuhol-gu, Incheon 22212, KOREA <br>
+Inha Univ.<br>Hi-Tech Center 301 / 333<br>INHA UNIVERSITY, 100 Inha-ro, Michuhol-gu, Incheon 22212, KOREA <br>
 Office : Hi-Tech Center 631<br>
-
+contact email: inhabellab@gmail.com <br>
 </div>
 
 </div>
