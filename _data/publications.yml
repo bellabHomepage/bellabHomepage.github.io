@@ -1,14 +1,51 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
-- citation: Hang Chan Jo, Dae Yu Kim \n 'Observations of in vivo laser tissue ablation in animal models with different chromophores on the skin and modulating duration per laser exposure ,LASERS IN MEDICAL SCIENCE , 2018'
+- citation: '**Hang Chan Jo**, **Dae Yu Kim** Observations of in vivo laser tissue ablation in animal models with different chromophores on the skin and modulating duration per laser exposure ,LASERS IN MEDICAL SCIENCE , 2018'
   date: 2018
   image: '/static/img/pub/10103_2018_2693_Fig1_HTML.png'
   pmid: 30488272
   pdf: '/static/pdf/Jo-Kim2018_Article_ObservationsOfInVivoLaserTissu.pdf'
 
 
-- citation: 'Yoo YS, Whang WJ, Byun YS, Piao JJ, **Kim DY**, Joo CK, Yoon G. Through-Focus Optical Bench Performance of Extended Depth-of-Focus and Bifocal Intraocular Lenses Compared to a Monofocal Lens'
+- citation: 'Yoo YS, Whang WJ, Byun YS, Piao JJ, **Kim DY**, Joo CK, Yoon G. Through-Focus Optical Bench Performance of Extended Depth-of-Focus and Bifocal Intraocular Lenses Compared to a Monofocal Lens, JOURNAL OF REFRACTIVE SURGERY , 34권 4호 , pp. 236~236 , 2018'
+  date: 2018
+  #image: ''
+  #pmid: 29634838
+  #pdf: ''
+
+- citation: '**Hang Chan Jo**, Jae Hun Kim, **Dae Yu Kim**, Comparison of light absorption levels with different skin phantoms and the Monte Carlo simulation using Fourier-domain optical coherence tomography , PROCEEDINGS OF SPIE , 2018'
   date: 2018
   image: ''
-  pmid: 29634838
+  #pmid: 29634838
   pdf: ''
+
+- citation: 'Yoo YS, Na KS, **Kim DY**, Yang SW, Joo CK. Morphological evaluation for diagnosis of dry eye related to meibomian gland dysfunction , EXPERIMENTAL EYE RESEARCH , 163권 Special SI호 , pp. 72~77 , 2017'
+  date: 2017
+  image: '/static/img/pub/1-s2.0-S0014483517302580-gr5_lrg.jpg'
+  pmid: 28950940
+  pdf: '/static/pdf/1-s2.0-S0014483517302580-main.pdf'
+
+- citation: 'Hang Chan Jo, Dong Jun Shin, Jin-Chul Ahn, Phil-Sang Chung, DaeYu Kims, In vivo monitoring laser tissue interaction using high resolution Fourier-domain optical coherence tomography, PROCEEDINGS OF SPIE , 2017'
+  date: 2017
+  #image: ''
+  #pmid: 29634838
+  #pdf: ''
+
+- citation: 'Susanna S. Park, Sumeer Thinda, **Dae Yu Kim**, Robert J. Zawadzki, John S. Werner, Phase-Variance Optical Coherence Tomographic Angiography Imaging of Choroidal Perfusion Changes Associated With Acute Posterior Multifocal Placoid Pigment Epitheliopathy , JAMA OPHTHALMOLOGY , 134권 8호 , pp. 943~945 , 2016'
+  date: 2016
+  image: '/static/img/pub/nihms935563f2.jpg'
+  pmid: 27280519
+  pdf: '/static/pdf/nihms935563.pdf'
+
+- citation: 'Bongkyun Kim and **Dae Yu Kim**, Enhanced Tissue Ablation Efficiency with a Mid-Infrared Nonlinear Frequency Conversion Laser System and Tissue Interaction Monitoring Using Optical Coherence Tomography , SENSORS , 16권 5호 , 2016'
+  date: 2016
+  image: '/static/img/pub/sensors-16-00598-g001.jpg'
+  pmid: 29634838
+  pdf: '/static/pdf/sensors-16-00598.pdf'
+
+#- citation: ''
+#  date: 2018
+#  image: ''
+#  pmid: 29634838
+#  pdf: ''
+
 
