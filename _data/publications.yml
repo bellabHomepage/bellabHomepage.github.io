@@ -1,8 +1,8 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 - citation: |
- **Hang Chan Jo**, **Dae Yu Kim** 
+ "**Hang Chan Jo**, **Dae Yu Kim** 
 Observations of in vivo laser tissue ablation in animal models with different chromophores on the skin and modulating duration per laser exposure  
-LASERS IN MEDICAL SCIENCE , 2018
+LASERS IN MEDICAL SCIENCE , 2018"
   date: 2018
   image: '/static/img/pub/10103_2018_2693_Fig1_HTML.png'
   pmid: 30488272
