@@ -9,18 +9,19 @@
   image: /static/img/members/DrLeeProfile.jpeg
   position: ...
   email: voinaimir82@gmail.com
-  description: >
-  Short description
-  of this post
+  description: 'name : Dong Jin Lee
+
+  Position : Postdoctoral Fellow
 
 
-  **bold** -- _italics_ --- ~~strikethrough~~ `monospace`
+  Research field : Soft materials & Actuators
 
 
-  These lines <br />
-  show up with line breaks <br />
-  but within the same paragraph.
+  email : voinaimir82@gmail.com
 
+
+
+  '
 
 - name: Myung hee Kim 
   image: /static/img/members/DrKimProfile.jpeg
