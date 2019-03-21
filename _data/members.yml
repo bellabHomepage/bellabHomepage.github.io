@@ -9,7 +9,18 @@
   image: /static/img/members/DrLeeProfile.jpeg
   position: ...
   email: voinaimir82@gmail.com
-  description: "[Temp] Soft materials & Actuators"
+  description: >
+  Short description
+  of this post
+
+
+  **bold** -- _italics_ --- ~~strikethrough~~ `monospace`
+
+
+  These lines <br />
+  show up with line breaks <br />
+  but within the same paragraph.
+
 
 - name: Myung hee Kim 
   image: /static/img/members/DrKimProfile.jpeg
