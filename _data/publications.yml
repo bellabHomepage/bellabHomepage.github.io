@@ -1,6 +1,10 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
 - citation: '**Hang Chan Jo**, **Dae Yu Kim** 
+
+
 Observations of in vivo laser tissue ablation in animal models with different chromophores on the skin and modulating duration per laser exposure  
+
+
 LASERS IN MEDICAL SCIENCE , 2018'
   date: 2018
   image: '/static/img/pub/10103_2018_2693_Fig1_HTML.png'
@@ -9,7 +13,11 @@ LASERS IN MEDICAL SCIENCE , 2018'
 
 
 - citation: 'Yoo YS, Whang WJ, Byun YS, Piao JJ, **Kim DY**, Joo CK, Yoon G. 
+
+
 Through-Focus Optical Bench Performance of Extended Depth-of-Focus and Bifocal Intraocular Lenses Compared to a Monofocal Lens  
+
+
 JOURNAL OF REFRACTIVE SURGERY , 34권 4호 , pp. 236~236 , 2018'
   date: 2018
   image: '/static/img/pub/fig6.jpg'
