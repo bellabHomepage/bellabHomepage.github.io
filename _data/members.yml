@@ -6,46 +6,46 @@
   description: "Will update..."
 
 - name: Dong Jin Lee
-  image: /static/img/members/unknownMan.jpg
+  image: /static/img/members/DrLeeProfile.jpeg
   position: ...
-  email: ...
-  description: "..."
+  email: voinaimir82@gmail.com
+  description: "[Temp] Soft materials & Actuators"
 
-- name: Myeong Hee Kim
-  image: /static/img/members/unknownGirl.png
+- name: Myung hee Kim 
+  image: /static/img/members/DrKimProfile.jpeg
   position: ...
-  email: ...
-  description: "..."
+  email: 318560@inha.ac.kr
+  description: "[Temp] Ocular degeneration, chemical genomics, tissue engineering, stem cell research"
 
 - name: Hang Chan Jo
   image: /static/img/members/unknownMan.jpg
-  position: MS - Ph.D
+  position: Ph.D Student
   email: ...
   description: "..."
 
 - name: Sung Hun Jung
   image: /static/img/members/JSH.jpeg
-  position: MS - Ph.D
-  email: ...
-  description: "..."
+  position: Ph.D Student
+  email: tjdgns3481@naver.com
+  description: "Computional Adaptive Optics / Raytracing/ Blood Vessel and Pressure"
 
-- name: Su Guen Oh Saurus
+- name: Su Guen Oh
   image: /static/img/members/SGSG.jpeg
-  position: Graduate Student
-  email: ...
-  description: "..."
+  position: M.S Student
+  email: sky51208@gmail.com
+  description: "Adaptive Optics ( SLO / Aberrometer /Microscopy / Fundus ) "
 
 - name: Jun Hyuk Lee
   image: /static/img/members/JH2.jpeg
-  position: Graduate Student
+  position: M.S Student
   email: ...
   description: "..."
 
 - name: Hyeon Woo Jeong
   image: /static/img/members/HYBono.jpeg
-  position: Graduate Student
+  position: M.S Student
   email: qhsh9713@gmail.com
-  description: "..."
+  description: "Image quantification, Sementic segmentation, Deep learning"
 
 - name: Yeon Ju Seo
   image: /static/img/members/YJ.jpg
@@ -56,5 +56,23 @@
 - name: Kyo Sik Min
   image: /static/img/members/MS.jpeg
   position: Undergraduate Student
+  email: alsrytlr@gmail.com 
+  description: "Plasma"
+
+- name: Lee Gi Hun
+  image: /static/img/members/Under_Gihun.jpeg
+  position: Undergraduate Student
   email: ...
+  description: "..."
+
+- name: Kyo Sik Min
+  image: /static/img/members/unknownMan.jpg
+  position: Undergraduate Student
+  email: ...
+  description: "..."
+
+- name: Kim Hyeon Ji
+  image: /static/img/members/unknownGirl.png
+  position: Undergraduate Student
+  email: guswl1414@gmail.com
   description: "..."
