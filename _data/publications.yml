@@ -1,5 +1,6 @@
 # THE WEIRDEST BUG: using escapes requires single-quotes instead of double...
-- citation: '**Hang Chan Jo**, **Dae Yu Kim** 
+- citation: |
+'**Hang Chan Jo**, **Dae Yu Kim** 
 Observations of in vivo laser tissue ablation in animal models with different chromophores on the skin and modulating duration per laser exposure  
 LASERS IN MEDICAL SCIENCE , 2018'
   date: 2018
@@ -8,7 +9,8 @@ LASERS IN MEDICAL SCIENCE , 2018'
   pdf: '/static/pdf/Jo-Kim2018_Article_ObservationsOfInVivoLaserTissu.pdf'
 
 
-- citation: 'Yoo YS, Whang WJ, Byun YS, Piao JJ, **Kim DY**, Joo CK, Yoon G. 
+- citation: |
+'Yoo YS, Whang WJ, Byun YS, Piao JJ, **Kim DY**, Joo CK, Yoon G. 
 Through-Focus Optical Bench Performance of Extended Depth-of-Focus and Bifocal Intraocular Lenses Compared to a Monofocal Lens  
 JOURNAL OF REFRACTIVE SURGERY , 34권 4호 , pp. 236~236 , 2018'
   date: 2018
@@ -22,7 +24,8 @@ JOURNAL OF REFRACTIVE SURGERY , 34권 4호 , pp. 236~236 , 2018'
 #  #pmid: 29634838
 #  pdf: ''
 
-- citation: 'Yoo YS, Na KS, **Kim DY**, Yang SW, Joo CK. 
+- citation: |
+'Yoo YS, Na KS, **Kim DY**, Yang SW, Joo CK. 
 Morphological evaluation for diagnosis of dry eye related to meibomian gland dysfunction   
 EXPERIMENTAL EYE RESEARCH , 163권 Special SI호 , pp. 72~77 , 2017'
   date: 2017
@@ -36,7 +39,8 @@ EXPERIMENTAL EYE RESEARCH , 163권 Special SI호 , pp. 72~77 , 2017'
   #pmid: 29634838
   #pdf: ''
 
-- citation: 'Susanna S. Park, Sumeer Thinda, **Dae Yu Kim**, Robert J. Zawadzki, John S. Werner  
+- citation: |
+'Susanna S. Park, Sumeer Thinda, **Dae Yu Kim**, Robert J. Zawadzki, John S. Werner  
 Phase-Variance Optical Coherence Tomographic Angiography Imaging of Choroidal Perfusion Changes Associated With Acute Posterior Multifocal Placoid Pigment Epitheliopathy   
 JAMA OPHTHALMOLOGY , 134권 8호 , pp. 943~945 , 2016'
   date: 2016
