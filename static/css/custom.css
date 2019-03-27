@@ -67,7 +67,10 @@ body {
 .navbar-default .navbar-link:hover {
   color: #fdfdfd;
 }
+/*
+before start font size : 28
 
+*/
 @media (max-width: 346px) {
   .jumbotron {
     padding-left: 20px;
@@ -77,7 +80,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 28px;
+    font-size: 36px;
   }
 }
 @media (min-width: 347px) and (max-width: 382px) {
@@ -89,7 +92,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 32px;
+    font-size: 40px;
   }
 }
 @media (min-width: 383px) and (max-width: 417px) {
@@ -101,7 +104,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 36px;
+    font-size: 44px;
   }
 }
 @media (min-width: 418px) and (max-width: 453px) {
@@ -113,7 +116,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 40px;
+    font-size: 48px;
   }
 }
 @media (min-width: 454px) and (max-width: 489px) {
@@ -125,7 +128,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 44px;
+    font-size: 52px;
   }
 }
 @media (min-width: 490px) and (max-width: 525px) {
@@ -137,7 +140,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 48px;
+    font-size: 56px;
   }
 }
 @media (min-width: 526px) and (max-width: 561px) {
@@ -149,7 +152,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 52px;
+    font-size: 60px;
   }
 }
 @media (min-width: 562px) and (max-width: 596px) {
@@ -161,7 +164,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 56px;
+    font-size: 64px;
   }
 }
 @media (min-width: 597px) and (max-width: 632px) {
@@ -173,7 +176,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 60px;
+    font-size: 68px;
   }
 }
 @media (min-width: 633px) and (max-width: 767px) {
@@ -185,7 +188,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 64px;
+    font-size: 72px;
   }
 }
 @media (min-width: 768px) and (max-width: 772px) {
@@ -197,7 +200,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 48px;
+    font-size: 56px;
   }
 }
 @media (min-width: 773px) and (max-width: 826px) {
@@ -209,7 +212,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 52px;
+    font-size: 60px;
   }
 }
 @media (min-width: 827px) and (max-width: 880px) {
@@ -221,7 +224,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 56px;
+    font-size: 64px;
   }
 }
 @media (min-width: 881px) and (max-width: 933px) {
@@ -233,7 +236,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 60px;
+    font-size: 68px;
   }
 }
 @media (min-width: 934px) {
@@ -245,7 +248,7 @@ body {
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 64px;
+    font-size: 72px;
   }
 }
 
