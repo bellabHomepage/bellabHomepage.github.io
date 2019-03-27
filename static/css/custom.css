@@ -24,7 +24,7 @@ body {
 
 .navbar-default .navbar-brand {
   font-family: "Lucida Bright", Georgia, serif;
-
+  font-size : 20px;
   color: #f6f6f6;
 }
 
@@ -80,7 +80,7 @@ before start font size : 28
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 36px;
+    font-size: 28px;
   }
 }
 @media (min-width: 347px) and (max-width: 382px) {
@@ -92,7 +92,7 @@ before start font size : 28
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 40px;
+    font-size: 32px;
   }
 }
 @media (min-width: 383px) and (max-width: 417px) {
@@ -104,7 +104,7 @@ before start font size : 28
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 44px;
+    font-size: 36px;
   }
 }
 @media (min-width: 418px) and (max-width: 453px) {
@@ -116,7 +116,7 @@ before start font size : 28
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 48px;
+    font-size: 40px;
   }
 }
 @media (min-width: 454px) and (max-width: 489px) {
@@ -128,7 +128,7 @@ before start font size : 28
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 52px;
+    font-size: 44px;
   }
 }
 @media (min-width: 490px) and (max-width: 525px) {
@@ -140,7 +140,7 @@ before start font size : 28
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 56px;
+    font-size: 48px;
   }
 }
 @media (min-width: 526px) and (max-width: 561px) {
@@ -152,7 +152,7 @@ before start font size : 28
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 60px;
+    font-size: 52px;
   }
 }
 @media (min-width: 562px) and (max-width: 596px) {
@@ -164,7 +164,7 @@ before start font size : 28
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 64px;
+    font-size: 56px;
   }
 }
 @media (min-width: 597px) and (max-width: 632px) {
@@ -176,7 +176,7 @@ before start font size : 28
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 68px;
+    font-size: 60px;
   }
 }
 @media (min-width: 633px) and (max-width: 767px) {
@@ -188,7 +188,7 @@ before start font size : 28
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 72px;
+    font-size: 64px;
   }
 }
 @media (min-width: 768px) and (max-width: 772px) {
@@ -200,7 +200,7 @@ before start font size : 28
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 56px;
+    font-size: 48px;
   }
 }
 @media (min-width: 773px) and (max-width: 826px) {
@@ -212,7 +212,7 @@ before start font size : 28
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 60px;
+    font-size: 52px;
   }
 }
 @media (min-width: 827px) and (max-width: 880px) {
@@ -224,7 +224,7 @@ before start font size : 28
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 64px;
+    font-size: 56px;
   }
 }
 @media (min-width: 881px) and (max-width: 933px) {
@@ -236,7 +236,7 @@ before start font size : 28
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 68px;
+    font-size: 60px;
   }
 }
 @media (min-width: 934px) {
@@ -248,7 +248,7 @@ before start font size : 28
   }
   .jumbotron h1,
   .jumbotron .h1 {
-    font-size: 72px;
+    font-size: 64px;
   }
 }
 
