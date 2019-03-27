@@ -25,8 +25,10 @@ body {
 .navbar-default .navbar-brand {
   /*font-family: "Lucida Bright", Georgia, serif;
 
-  color: #f6f6f6;*/
-  h1 { font-family: "Lucida Bright", Georgia, serif; font-size: 30px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 33px; }
+  */
+  h1 { font-family: "Lucida Bright", Georgia, serif; font-size: 45px;
+  font-style: normal; font-variant: normal; font-weight: 800; line-height: 40px;
+  color: #f6f6f6;}
 }
 
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
