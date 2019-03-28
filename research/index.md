@@ -4,13 +4,6 @@ layout: default
 group: research
 ---
 
-## Measurement Engineering Laboratory 
-
-
-#### We are elucidating molecular mechanisms associated with human diseases through development of innovative devices and technologies in biophotonics, biomedical imaging, and sensor engineering as well as translating scientific development into better health outcomes
-
-
-<br><br>
 ## Medical Imaging by Biomedical Optics
 
 <img class="img-responsive center-block" src="/static/img/research/medicalDevice.png" alt="Medical device" width="40%" height="40%">
@@ -32,14 +25,14 @@ group: research
 
 <br><br>
 
-### Medical Image Analysis
+## Medical Image Analysis
 
 #### will Update...
 
 <br><br>
 
 
-## Photobiomoduation( or Low-level laser therapy, LLLT)
+## Photobiomoduation
 
 <img class="img-responsive center-block" src="/static/img/research/researchDrkim.png" alt="Photobiomoduation" width="40%" height="40%">
 
