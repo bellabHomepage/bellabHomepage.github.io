@@ -7,13 +7,13 @@ group: research
 ## Measurement Engineering Laboratory 
 
 
-#### Will Update... (Goal)
+#### We are elucidating molecular mechanisms associated with human diseases through development of innovative devices and technologies in biophotonics, biomedical imaging, and sensor engineering as well as translating scientific development into better health outcomes
 
 
 <br><br>
-### Medical Imaging by Biomedical Optics
+## Medical Imaging by Biomedical Optics
 
-<img class="img-responsive center-block" src="/static/img/research/medicalDevice.png" alt="Medical device" width="30%" height="30%">
+<img class="img-responsive center-block" src="/static/img/research/medicalDevice.png" alt="Medical device" width="40%" height="40%">
 
 <br>
 
@@ -26,7 +26,7 @@ group: research
 
 <br><br>
 
-### Sensor & Actuator
+## Sensor & Actuator
 
 #### Will Update...
 
@@ -39,9 +39,9 @@ group: research
 <br><br>
 
 
-### Photobiomoduation( or Low-level laser therapy, LLLT)
+## Photobiomoduation( or Low-level laser therapy, LLLT)
 
-<img class="img-responsive center-block" src="/static/img/research/researchDrkim.png" alt="Photobiomoduation" width="30%" height="30%">
+<img class="img-responsive center-block" src="/static/img/research/researchDrkim.png" alt="Photobiomoduation" width="40%" height="40%">
 
 #### 저온 레이저 치료 (Low-level laser therapy (LLLT) or Photobiomodulatio (PDM))는 레이저 또는 LED등의 적외선 및 근적외선의 낮은 레벨의 광원을 이용하여 생체 자극 및 세포 또는 조직을 치료하는 방법이다., LLLT의 효과는 세포 기능을 증진하거나 세포 및 조직 사망의 감소, 상처 치유 개선, 연조직, 신경, 뼈 및 연골에 대한 손상 복구를 증가시키고 급성 및 만성 통증에 대한 완화 및 염증등의 효과를 가지며, 최근 들어 이런 광의료기기가 각광을 받고 있다. 
 <br>
@@ -51,8 +51,4 @@ group: research
 
 <br><br>
 
-### IoT
 
-#### Will Update...
-
-<br><br>
