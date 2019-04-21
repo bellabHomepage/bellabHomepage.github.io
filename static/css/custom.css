@@ -22,13 +22,14 @@ body {
   padding: 10px;
   margin-bottom: 30px;
 }
+
 */
 
 
 .navbar-default {
   background-color: #000000;
-  border: 15 !important;
-  margin-bottom: 15 !important;
+  border: 30 !important;
+  margin-bottom: 30 !important;
   font-size : 35px;
 }
 
