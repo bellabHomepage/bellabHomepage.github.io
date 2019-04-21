@@ -8,9 +8,9 @@ font change zone.... fuck...
 body {
   /*padding-top: 80px;*/
   /*padding-top: 50px; /* this was to make it the same height as the navbar so there is no gap between navbar and header image -- changed back now though*/
-  padding-top: 120px
-  padding-top: 70px;
-  padding-bottom: 80px;
+  padding-top: 80px
+  padding-top: 50px;
+  padding-bottom: 40px;
 }
 
 /*
@@ -27,14 +27,14 @@ body {
 
 .navbar-default {
   background-color: #000000;
-  border: 0 !important;
-  margin-bottom: 0 !important;
+  border: 15 !important;
+  margin-bottom: 15 !important;
   font-size : 35px;
 }
 
 .navbar-default .navbar-brand {
   font-family: "Lucida Bright", Georgia, serif;
-  font-size: 35px;
+  font-size: 35px;ㄴ
   font-style: italic;
   font-variant: normal;
   font-weight: 800;
